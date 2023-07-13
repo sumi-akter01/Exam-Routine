@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin: 25px;
+    color: darksalmon;
+    font-weight: 400;
+    font-size: 4rem;
+}
+table, tr, td, th{
+    border: 2px solid rgb(27, 18, 33);
+    border-collapse: collapse;
+    margin-left: 20%;
+}
+table{
+    width: 60%;
+    height: 270px;
+    text-align: center;
+    font-size: 22px;
+    
+}
